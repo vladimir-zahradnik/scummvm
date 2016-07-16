@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: 2016-07-16 23:11+0200\n"
 "Last-Translator: Vladimír Záhradník <vladimir.zahradnik@gmail.com>\n"
 "Language-Team: Vladimír Záhradník <vladimir.zahradnik@gmail.com>\n"
-"Language: sk_SK\n"
+"Language: Slovenský\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=iso-8859-2\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3874,96 +3874,96 @@ msgstr ""
 "rozlí¹ení"
 
 #~ msgid "EGA undithering"
-#~ msgstr "Nerozkládání EGA"
+#~ msgstr "Nerozkladanie EGA"
 
 #~ msgid "Enable undithering in EGA games"
-#~ msgstr "Povolit nerozkládání v EGA hrách"
+#~ msgstr "Povoli» nerozkladanie v EGA hrách"
 
 #~ msgid "Are you sure you want to restart?  (Y/N)"
-#~ msgstr "Jste si jisti, ¾e chcete restartovat? (A/N)A"
+#~ msgstr "Skutoène chcete re¹tartova»? (A/N)A"
 
 #~ msgid "Are you sure you want to quit?  (Y/N)"
-#~ msgstr "Jste si jisti, ¾e chcete odejít?  (A/N)A"
+#~ msgstr "Skutoène chcete skonèi»?  (A/N)A"
 
 #~ msgid ""
 #~ "Usually, Maniac Mansion would start now. But ScummVM doesn't do that yet. "
 #~ "To play it, go to 'Add Game' in the ScummVM start menu and select the "
 #~ "'Maniac' directory inside the Tentacle game directory."
 #~ msgstr ""
-#~ "Normálnì by teï Maniac Mansion byl spu¹tìn. Ale ScummVM toto zatím "
-#~ "nedìlá. Abyste toto mohli hrát, pøejdìte do 'Pøidat Hru' v poèáteèním "
-#~ "menu ScummVM a vyberte adresáø 'Maniac' uvnitø herního adresáøe Tentacle."
+#~ "Zvyèajne by sa teraz spustila hra Maniac Mansion. Ale ScummVM toto zatiaµ "
+#~ "nespraví. Aby ste túto hru mohli hra», prejdite do 'Prida» hru' v poèiatoènej "
+#~ "ponuke ScummVM a vyberte adresár 'Maniac' vnútri adresára s hrou Tentacle."
 
 #~ msgid "MPEG-2 cutscenes found but ScummVM has been built without MPEG-2"
-#~ msgstr "Videa MPEG-2 nalezena, ale ScummVM byl sestaven bez MPEG-2"
+#~ msgstr "MPEG-2 videá boli nájdené, ale ScummVM bol zostavený bez MPEG-2"
 
 #~ msgctxt "lowres"
 #~ msgid "Mass Add..."
-#~ msgstr "Hromadné Pøidání..."
+#~ msgstr "Hromadné pridanie..."
 
 #~ msgid ""
 #~ "Turns off General MIDI mapping for games with Roland MT-32 soundtrack"
 #~ msgstr ""
-#~ "Vypne mapování General MIDI pro hry s Roland MT-32 zvukovým doprovodem"
+#~ "Vypne mapovanie General MIDI pre hry s Roland MT-32 zvukovým doprovodom"
 
 #~ msgid "Standard (16bpp)"
-#~ msgstr "Standardní (16bpp)"
+#~ msgstr "©tandardné (16bpp)"
 
 #~ msgid "MPEG2 cutscenes are no longer supported"
-#~ msgstr "Videa MPGE2 ji¾ nejsou podporována"
+#~ msgstr "MPEG2 videá u¾ nie sú podporované"
 
 #~ msgid "OpenGL Normal"
-#~ msgstr "OpenGL Normální"
+#~ msgstr "OpenGL normálne"
 
 #~ msgid "OpenGL Conserve"
-#~ msgstr "OpenGL Zachovávající"
+#~ msgstr "OpenGL zachovávajúce"
 
 #~ msgid "OpenGL Original"
-#~ msgstr "OpenGL Pùvodní"
+#~ msgstr "OpenGL pôvodné"
 
 #~ msgid "Current display mode"
-#~ msgstr "Souèasný re¾im obrazu"
+#~ msgstr "Aktuálny re¾im obrazu"
 
 #~ msgid "Current scale"
-#~ msgstr "Souèasná velikost"
+#~ msgstr "Aktuálna veµkos»"
 
 #~ msgid "Active filter mode: Linear"
-#~ msgstr "Aktivní re¾im filtru: Lineární"
+#~ msgstr "Aktívny re¾im filtra: lineárny"
 
 #~ msgid "Active filter mode: Nearest"
-#~ msgstr "Aktivní re¾im filtru: Nejbli¾¹í"
+#~ msgstr "Aktívny re¾im filtra: najbli¾¹í"
 
 #~ msgid "Enable Roland GS Mode"
-#~ msgstr "Zapnout re¾im Roland GS"
+#~ msgstr "Zapnú» re¾im Roland GS"
 
 #~ msgctxt "lowres"
 #~ msgid "Add Game..."
-#~ msgstr "Pøidat Hru..."
+#~ msgstr "Prida» hru..."
 
 #~ msgid "Add Game..."
-#~ msgstr "Pøidat Hru..."
+#~ msgstr "Prida» hru..."
 
 #~ msgid ""
 #~ "Your game version has been detected using filename matching as a variant "
 #~ "of %s."
 #~ msgstr ""
-#~ "Bylo zji¹tìno, ¾e Va¹e verze hry pou¾ívá jméno souboru shodující se s "
+#~ "Zistilo sa, ¾e va¹a verzia hry pou¾íva názov súboru zhodujúci sa s "
 #~ "variantou %s."
 
 #~ msgid "If this is an original and unmodified version, please report any"
-#~ msgstr "Pokud je toto pùvodní a nezmìnìná verze, ohlaste prosím jakékoli"
+#~ msgstr "Pokiaµ je toto pôvodná a nezmenená verzia, ohláste, prosím, akékoµvek"
 
 #~ msgid "information previously printed by ScummVM to the team."
-#~ msgstr "pøede¹le vypsané informace od ScummVM zpátky týmu."
+#~ msgstr "predtým vypísané informácie od ScummVM naspä» tímu."
 
 #~ msgid "Discovered %d new games."
-#~ msgstr "Objeveno %d nových her."
+#~ msgstr "Objavených %d nových hier."
 
 #~ msgid "Command line argument not processed"
-#~ msgstr "Argument pøíkazové øádky nebyl zpracován"
+#~ msgstr "Argument príkazového riadku nebol spracovaný"
 
 #~ msgid "FM Towns Emulator"
-#~ msgstr "FM Towns Emulátor"
+#~ msgstr "FM Towns emulátor"
 
 #~ msgid "Invalid Path"
-#~ msgstr "Neplatná Cesta"
+#~ msgstr "Neplatná cesta"

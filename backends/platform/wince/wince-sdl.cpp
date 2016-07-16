@@ -657,6 +657,7 @@ Common::String OSystem_WINCE3::getSystemLanguage() const {
 		{"PLK", "POL", "pl_PL"},
 		{"PTB", "BRA", "pt_BR"},
 		{"RUS", "RUS", "ru_RU"},
+        {"SKY", "SVK", "sk_SK"},
 		{"SVE", "SWE", "sv_SE"},
 		{"UKR", "UKR", "uk_UA"},
 		{NULL, NULL, NULL}

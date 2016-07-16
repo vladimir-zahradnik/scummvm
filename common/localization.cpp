@@ -51,6 +51,9 @@ void getLanguageYesNo(Language id, KeyCode &keyYes, KeyCode &keyNo) {
 	case Common::DE_DEU:
 		keyYes = Common::KEYCODE_j;
 		break;
+	case Common::SK_SVK:
+		keyYes = Common::KEYCODE_a;
+		break;
 	default:
 		break;
 	}

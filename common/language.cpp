@@ -49,6 +49,7 @@ const LanguageDescription g_languages[] = {
 	{    "pl", "pl_PL", "Polish", PL_POL },
 	{    "br", "pt_BR", "Portuguese", PT_BRA },
 	{    "ru", "ru_RU", "Russian", RU_RUS },
+	{    "sk", "sk_SK", "Slovak", SK_SVK },
 	{    "es", "es_ES", "Spanish", ES_ESP },
 	{    "se", "sv_SE", "Swedish", SE_SWE },
 	{       0,       0, 0, UNK_LANG }
