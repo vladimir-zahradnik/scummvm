@@ -16,7 +16,7 @@ Obsah:
 3.0) Podporované hry
  * 3.1 Ochrana proti kopírovaniu
  * 3.2 Dátové súbory
- * 3.3 Poznámky k hrám Multi-CD
+ * 3.3 Poznámky ku hrám na viacerých CD
  * 3.4 Známe problémy
  * 3.5 Poznámky k Beneath a Steel Sky
  * 3.6 Poznámky ku hrám Broken Sword
@@ -26,7 +26,7 @@ Obsah:
  * * 3.6.4 Videá hier Broken Sword v spätnom pohľade
  * 3.7 Poznámky k Day of the Tentacle
  * 3.8 Poznámky k Discworld II
- * 3.9 Poznámky k Dragon History
+ * 3.9 Poznámky ku hre Dračí Historie
  * 3.10 Poznámky k Flight of the Amazon Queen
  * 3.11 Poznámky ku Gobliiins
  * 3.12 Poznámky k Inherit the Earth: Quest for the Orb
@@ -100,7 +100,7 @@ Medzi systémami, na ktorých môžete tieto hry hrať, sú bežné stolné poč
 (Dreamcast, Nintendo DS a Wii, PS2, PSP, ...), inteligentné telefóny (Android,
 iPhone, PocketPC, Symbian ...) a ďalšie.
 
-V súčasnosti je ScummVM stále vo veľkej časti vo vývoji. Nezabudnite, že aj keď sa snažíme zaistiť, aby mnoho hier bolo možné dokončiť iba s pár vážnymi chybami, môžu nastať pády programu a my neposkytujeme žiadne záruky. Napriek tomu všetkému, niektoré hry boli podporované dlhodobo a mali by v poriadku fungovať so všetkými novšími stabilnými verziami. Ako dobre bude hra v ScummVM fungovať môžete zistiť na stránke kompatibility.
+V súčasnosti je ScummVM stále z veľkej časti vo vývoji. Nezabudnite, že aj keď sa snažíme zaistiť, aby mnoho hier bolo možné dokončiť iba s pár vážnymi chybami, môžu nastať pády programu a my neposkytujeme žiadne záruky. Napriek tomu všetkému, niektoré hry boli podporované dlhodobo a mali by v poriadku fungovať so všetkými novšími stabilnými verziami. Ako dobre bude hra v ScummVM fungovať môžete zistiť na stránke kompatibility.
 Vlastne pokiaľ budete trochu hľadať, tak zistíte, že sa ScummVM používa i komerčne pre opätovné vydanie niektorých podporovaných hier na moderných platformách. To ukazuje, že i niekoľko spoločností je spokojných s kvalitou softvéru a tým, ako dobre je možné niektoré hry spúšťať.
 
 Pokiaľ máte ScummVM radi, môžete ho podporiť dotáciou pomocou tlačidla PayPal na stránke ScummVM. To nám pomôže zakúpiť nástroje potrebné na jednoduchší a rýchlejší vývoj ScummVM. Pokiaľ nás nemôžete podporiť dotáciou, môžete pomôcť tým, že prispejete záplatou!
@@ -111,9 +111,9 @@ Pre tých netrpezlivých z vás je tu návod ako spustiť ScummVM v niekoľkých
 
 1. Prevezmite si ScummVM z <http://www.scummvm.org/downloads.php> a nainštalujte ho.
 
-2. Na pevnom disku vytvorte priečinok a skopírujte dátové súbory z pôvodného média do tohto priečinka. Zopakujte pre všetky hry, ktoré chcete hrať
+2. Na pevnom disku vytvorte priečinok a skopírujte dátové súbory z pôvodného média do tohto priečinka. Zopakujte pre všetky hry, ktoré chcete hrať.
 
-3. Spustite ScummVM, vyberte 'Pridať hru', vyberte adresár s dátovými súbormi hry (nesnažte sa vyberať samotné dátové súbory!) a stlačte
+3. Spustite ScummVM, vyberte 'Pridať hru', vyberte priečinok s dátovými súbormi hry (nesnažte sa vyberať samotné dátové súbory!) a stlačte
 'Vybrať'.
 
 4. Malo by sa objaviť dialógové okno umožňujúce vám pozmeniť rôzne nastavenia, pokiaľ to tak chcete (i keď by malo byť v poriadku všetko nechať v predvolenom nastavení). Dialógové okno potvrďte.
@@ -122,7 +122,7 @@ Pre tých netrpezlivých z vás je tu návod ako spustiť ScummVM v niekoľkých
 
 V budúcnosti by ste mali byť schopní preskočiť na krok 5, pokiaľ teda nechcete pridať ďalšie hry.
 
-Rada: Pokiaľ chcete pridať viac hier naraz, skúste stlačiť a držať kláves Shift predtým, než kliknete na 'Pridať hru' – tlačidlo sa zmení na 'Hromadné pridanie' a pokiaľ ho stlačíte, budete opäť požiadaní o vybratie priečinka, ale tentokrát bude ScummVM vyhľadávať vo všetkých podpriečinkoch podporované hry.
+Rada: Pokiaľ chcete pridať viac hier naraz, skúste stlačiť a držať kláves Shift predtým, než kliknete na 'Pridať hru' – tlačidlo sa zmení na 'Hromadné pridanie' a pokiaľ ho stlačíte, budete opäť požiadaní o vybratie priečinka, ale tentokrát bude ScummVM vyhľadávať podporované hry vo všetkých podpriečinkoch.
 
 
 1.3) Najčastejšie otázky:
@@ -132,33 +132,33 @@ Na <http://www.scummvm.org/faq/> sme pre vás pripravili zoznam najčastejších
 
 2.0) Kontakt:
 ---- --------
-Nejjednodušším způsobem, jak kontaktovat tým ScummVM je předložením hlášení o chybě (viz oddíl 2.1) nebo použitím našich fór na <http://forums.scummvm.org>.
-Můžete se také připojit a odesílat a e-maily na korespondenční seznam scummvm-devel, nebo si s námi popovídejte na IRC (#scummvm na irc.freenode.net) Nežádejte nás, prosím, o podporu nefungující hry – nejdříve si přečtěte nejčastější otázky na naší stránce
+Najjednoduchším spôsobom, ako kontaktovať tím ScummVM, je odoslať hlásenia o chybách (viď oddiel 2.1) alebo použiť naše fóra na <http://forums.scummvm.org>.
+Môžete sa tiež pripojiť a odosielať e-maily na korešpondenčný zoznam scummvm-devel alebo sa s nami porozprávajte na IRC (#scummvm na irc.freenode.net) Nežiadajte nás, prosím, o podporu hry, ktorá ešte podporovaná nie je – najskôr si prečítajte najčastejšie otázky na našej stránke.
 
-2.1) Hlášení chyb:
----- -------------
-Abyste mohli nahlásit chybu, nejdříve si, prosíme, vytvořte si účet na SourceForge a klikněte na odkaz "Bug Tracker" na naší stránce. Ujistěte se, prosím, že se chyba dá znovu zjistit a stále se objevuje v nejnovější verzi git/denního sestavení. Také na naší stránce zkontrolujte seznam známých problémů (níže) a seznam kompatibility pro tuto hru, abyste se ujistili, že problém již není znám:
+2.1) Hlásenie chýb:
+---- --------------
+Aby ste mohli nahlásiť chybu, tak si najskôr, prosím, vytvorte účet na SourceForge a kliknite na odkaz "Bug Tracker" na našej stránke. Uistite sa, prosím, že sa dá chyba opäť zreprodukovať a že sa stále vyskytuje v najnovšej verzii git/dennej zostavy. Tiež si na našej stránke skontrolujte zoznam známych problémov (nižšie) a zoznam kompatibility pre túto hru, aby ste sa uistili, že sa o probléme ešte nevie:
 
   <http://www.scummvm.org/compatibility>
 
-Prosíme, nenahlašujte chyby ve hrách, které nejsou v seznamu v sekci 'Supported Games' nebo seznamu kompatibility uvedeny jako dokončitelné. My –víme-, že tyto hry mají chyby.
+Nehláste nám, prosím, chyby v hrách, ktoré nie sú v zozname v oddieli 'Podporované hry' alebo zozname kompatibility uvedené ako dokončiteľné. My –vieme–, že tieto hry majú chyby.
 
-Zahrňte, prosím, následující informace:
-    - Verzi ScummVM (PROSÍME, vyzkoušejte nejnovější sestavení git/Daily)
-    - Podrobnosti o chybě, včetně postupu na její znovu opakování
-    - Jazyk hry (angličtina, němčina, ...)
-    - Verze hry (s řečí, z diskety, ...)
+Zahrňte, prosím, nasledujúce informácie:
+    - Verziu ScummVM (vyskúšajte, PROSÍM, najnovšiu zostavu git/Daily)
+    - Podrobnosti o chybe, vrátane postupu na jej zreprodukovanie
+    - Jazyk hry (angličtina, nemčina, ...)
+    - Verzia hry (s rečou, z diskety, ...)
     - Platforma a kompilátor (Win32, Linux, FreeBSD, ...)
-    - Pokud možno, přiložte uloženou hru
-    - Pokud se tato chyba objevila pouze nedávno, poznamenejte si poslední verzi bez chyby a první verzi s touto chybou. Takto ji můžeme rychle spravit tím, že se podíváme na provedené změny.
+    - Pokiaľ to je možné, priložte uloženú pozíciu z hry
+    - Pokiaľ sa táto chyba objavila iba nedávno, poznamenajte si poslednú verziu bez chyby a prvú verziu s touto chybou. Takto ju môžeme rýchlo opraviť vďaka tomu, že sa pozrieme na urobené zmeny.
 
-Nakonec prosíme, abyste každou chybu nahlašovali samostatně; neohlašujte několik chyb v jednom hlášení. (Jinak bude obtížné sledovat stav každé jednotlivé chyby).
+Nakoniec vás prosíme, aby ste každú chybu hlásili samostatne; nehláste nám niekoľko chýb v jednom hlásení. (Inak bude veľmi ťažké sledovať stav každej jednej chyby).
 
 
 3.0) Podporované hry:
 ---- ----------------
-V tuto chvíli je o následujících hrách známo, že fungují a měly by být hratelné až dokonce.
-Podrobnější seznam kompatibility podporovaných her můžete nalézt na adrese:
+V tejto chvíli vieme o nasledujúcich hrách, že fungujú a mali by byť hrateľné až do konca.
+Podrobnejší zoznam kompatibility podporovaných her je možné nájsť na adrese:
 
  <http://www.scummvm.org/compatibility/>)
 
@@ -216,13 +216,13 @@ Hry od Coktel Vision (GOB):
      Urban Runner                                [urban]
      Ween: The Prophecy                          [ween]
 
-Hry od Revolution Software (Různé):
+Hry od Revolution Software (Rôzne):
      Beneath a Steel Sky                         [sky]
      Broken Sword: The Shadow of the Templars    [sword1]
      Broken Sword II: The Smoking Mirror         [sword2]
      Lure of the Temptress                       [lure]
 
-Hry od Sierra (AGI a před AGI):
+Hry od Sierra (AGI a pred AGI):
      The Black Cauldron                          [bc]
      Gold Rush!                                  [goldrush]
      King's Quest I                              [kq1]
@@ -238,7 +238,7 @@ Hry od Sierra (AGI a před AGI):
      Angel                                       [pq1]
      Space Quest I: The Sarien Encounter         [sq1]
      Space Quest II: Vohaul's Revenge            [sq2]
-     Hry od fanoušků                              [agi-fanmade]
+     Hry od fanúšikov                            [agi-fanmade]
 	 Mickey's Space Adventure                    [mickey]
      Troll's Tale                                [troll]
      Winnie the Pooh in the Hundred Acre Wood    [winnie]
@@ -284,7 +284,7 @@ Hry od Sierra Entertainment (SCI):
      Space Quest V                               [sq5]
      The Island of Dr. Brain                     [islandbrain]
 
-Další hry:
+Ďalšie hry:
      3 Skulls of the Toltecs                     [toltecs]
      Amazon: Guardians of Eden                   [access]
      Beavis and Butt-head in Virtual Stupidity   [bbvs]
@@ -296,7 +296,7 @@ Další hry:
      DreamWeb                                    [dreamweb]
      Discworld                                   [dw]
      Discworld 2: Missing Presumed ...!?         [dw2]
-     Dragon History                              [draci]
+     Dračí Historie                              [draci]
      Drascula: The Vampire Strikes Back          [drascula]
      Eye of the Beholder                         [eob]
      Eye of the Beholder II: The Legend of
@@ -392,8 +392,8 @@ Hry od Humongous Entertainment (SCUMM):
      SPY Fox in Cheese Chase                     [chase]
      SPY Fox in Hold the Mustard                 [mustard]
 
-Následující hry by měly jít spustit, ale zatím nejsou úplně hratelné. Hrajte je pouze na vlastní riziko a prosíme, abyste pro tyto hry nenahlašovali chyby.
-Pokud chcete mít nejnovější zprávy o kompatibilitách her, navštivte naší stránku a prohlédněte si tabulku kompatibilit.
+Nasledujúce hry by malo byť možné spustiť, ale zatiaľ nie sú úplne hrateľné. Hrajte ich iba na vlastné riziko a prosíme vás, aby ste nám pre tieto hry hlásili chyby.
+Pokiaľ chcete mať najnovšie informácie o kompatibilite hier, navštívte našu stránku a prezrite si tabuľku kompatibility.
 
      Backyard Soccer                             [soccer]
      Backyard Soccer MLS                         [soccermls]
@@ -423,116 +423,116 @@ Hry Living Books:
      The Berenstain Bears in the Dark            [beardark]
      The New Kid on the Block                    [newkid]
 
-Následující hry jsou odvozeny od jádra SCUMM, ale ScummVM je nepodporuje (zatím):
+Nasledujúce hry sú odvodené od jadra SCUMM, ale ScummVM ich nepodporuje (zatiaľ):
 
      Moonbase Commander
 
-Nezapomeňte, prosím, že jádra mohou obsahovat chyby a nezavedené funkce, které někdy zabrání hru dokončit. Ukládejte často a nahlaste chyby, prosím (instrukce pro hlášení chyb jsou výše), pokud na takovou chybu narazíte v 'podporované' hře.
+Nezabudnite, prosím, že jadrá môžu obsahovať chyby a neimplementované funkcie, ktoré niekedy zabránia hru dokončiť. Ukladajte často a hláste nám, prosím, chyby (inštrukcie pre hlásenie chýb sú uvedené vyššie), pokiaľ na nejaké narazíte v 'podporovanej' hre.
 
 
-3.1) Ochrana proti kopírování:
----- -------------------------
-Tým ScummVM nepodporuje pirátství. Nicméně existují případy, kdy herní společnosti (jako LucasArts) sami ve svých hrách poskytují 'cracknuté'
-spouštěče – v těchto případech datové soubory obsahují skripty pro ochranu proti kopírování, ale převaděč je obejde (toto může podobně provádět nelegálně cracknutá verze, s tím rozdílem, že zde toto provedl výrobce hry. Neexistuje žádný způsob, jak můžeme rozlišit legitimní a pirátské datové soubory, takže v hrách, o kterých víme, že byla někdy prodávána cracknutá verze původního převaděče bude ScummVM muset vždy ochranu přeskočit.
+3.1) Ochrana proti kopírovaniu:
+---- --------------------------
+Tím ScummVM nepodporuje pirátstvo. Avšak existujú prípady, keď samotné herné spoločnosti (ako LucasArts) poskytujú v svojich hrách 'cracknuté'
+spúšťače – v týchto prípadoch dátové súbory obsahujú skripty na ochranu proti kopírovaniu, ale interpreter ich obíde (toto môže podobne robiť aj nelegálne cracknutá verzia, s tým rozdielom, že tu to urobil výrobca hry. Neexistuje žiadny spôsob ako môžeme rozlíšiť legitímne a pirátske dátové súbory, takže v hrách, o ktorých vieme, že bola niekedy predávaná cracknutá verzia pôvodného interpretera, bude ScummVM musieť vždy ochranu preskočiť.
 
-V některých případech ScummVM přesto zobrazí obrazovku ochrany proti kopírování. Zkuste zadat jakoukoli odpověď. Je tu možnost, že toto bude fungovat.
+V niektorých prípadoch ScummVM aj napriek tomu zobrazí obrazovku ochrany proti kopírovaniu. Skúste zadať akúkoľvek odpoveď. Je možné, že to bude fungovať.
 
-ScummVM přeskakuje ochranu v následujících hrách:
+ScummVM preskakuje ochranu v nasledujúcich hrách:
 
   * Beneath a Steel Sky
-      -- potlačeno s laskavým svolením Revolution Software.
+      -- potlačené s láskavým dovolením Revolution Software.
   * Dreamweb
-      -- seznam dostupných příkazů v terminálech ve hře je nyní zobrazen
-         když hráč použije příkaz 'help'
-  * Inherit the Earth: Quest for the Orb (Floppy version)
-      -- potlačeno s laskavým svolením Wyrmkeep Entertainment,
-         protože byla potlačena ve všech vydáních hry na CD.
+      -- zoznam dostupných príkazov v termináloch v hre je teraz zobrazený
+         keď hráč použije príkaz 'help'
+  * Inherit the Earth: Quest for the Orb (verzia na diskete)
+      -- potlačené s láskavým dovolením Wyrmkeep Entertainment,
+         pretože ochrana bola potlačená vo všetkých vydaniach hry na CD.
   * Loom (EGA DOS)
   * Maniac Mansion
   * Monkey Island 2: LeChuck's Revenge
-  * Simon the Sorcerer 1 (Floppy version)
-  * Simon the Sorcerer 2 (Floppy version)
-      -- potlačeno s laskavým svolením Adventure Soft,
-         protože byla potlačena ve všech vydáních hry na CD.
+  * Simon the Sorcerer 1 (verzia na diskete)
+  * Simon the Sorcerer 2 (verzia na diskete)
+      -- potlačené s láskavým dovolením Adventure Soft,
+         pretože ochrana bola potlačená vo všetkých vydaniach hry na CD.
   * The Secret of Monkey Island (VGA)
   * Waxworks
   * Zak McKracken and the Alien Mindbenders
 
 
-3.2) Datové soubory
+3.2) Dátové súbory:
 ---- --------------
-Pro přehledný seznam požadovaných datových souborů u podporovaných her navštivte:
+Pre prehľadný zoznam požadovaných dátových súborov v podporovaných hrách navštívte:
 
 <http://wiki.scummvm.org/index.php/Datafiles>
 
 
-3.3) Poznámky ke hrám Multi-CD:
----- --------------------------
-Obecně ScummVM moc dobře nefunguje s hrami na Multi-CD. To je proto, že  ScummVM předpokládá, že všechno o hře může být nalezeno v jedné složce.  I když ScummVM má schopnost požádat uživatele, aby vyměnil CD, původní spouštěč souboru většinou nainstaluje malé množství souborů na pevný disk. Pokud tyto soubory nelze najít na všech CD, ScummVM bude mít potíže.
+3.3) Poznámky ku hrám na viacerých CD:
+---- ---------------------------------
+Vo všeobecnosti ScummVM veľmi dobre nefunguje s hrami na viacerých CD. Je to preto, že ScummVM predpokladá, že všetko týkajúce sa hry je možné nájsť v jednom priečinku. Aj keď má ScummVM schopnosť požiadať používateľa, aby vymenil CD, pôvodné spúšťače hry äčšinou inštalovali malé množstvo súborov na pevný disk. Pokiaľ tieto súbory nie je možné nájsť na všetkých CD, ScummVM bude mať problémy.
 
-Naštěstí může ScummVM hry bez problémů spouštět přímo z pevného disku, pokud vytvoříte složku se správnou kombinací souborů. Většinou, když se soubor objeví na více, než jednom CD můžete vybrat jeden z nich.
+Našťastie môže ScummVM hry bez problémov spúšťať priamo z pevného disku, pokiaľ vytvoríte priečinok so správnou kombináciou súborov. Väčšinou keď sa súbor objaví na viac ako jednom CD, môžete si vybrať jeden z nich.
 
 
-3.4) Známé Problémy:
+3.4) Známe problémy:
 ---- ---------------
-Toto vydání má následující známé problémy. Není třeba je ohlašovat, i když záplaty pro jejich opravu jsou vítány. Pokud objevíte chybu, která není zde v seznamu, ani není v seznamu kompatibility na internetové stránce, prohlédněte si, prosím, část o hlášení chyb.
+Toto vydanie má nasledujúce známe problémy. Nie je potrebné ich hlásiť, aj keď záplaty, ktoré ich opravujú, sú vítané. Pokiaľ objavíte chybu, ktorá nie je v zozname, ani nie je v zozname kompatibility na internetovej stránke, prezrite si, prosím, časť o hlásení chýb.
 
-  Hry CD Audio:
-	- Při hraní her, které používají CD Audio (hry FM-TOWNS, Loom CD, atd) může u uživatelů Microsoft Windows 2000/XP docházet k náhodným pádům. To je díky dlouhotrvající chybě Windows, která má za následek poškozené soubory
-	  při čtení z CD. Abyste se tomuto vyhnuli, zkopírujte, prosím, soubory na pevný disk
+  Hry využívajúce zvukové CD:
+	- Pri hraní hier, ktoré používajú zvukové CD (hry FM-TOWNS, Loom CD, atď.) môže u používateľov Microsoft Windows 2000/XP dochádzať k náhodným pádom. Deje sa tak kvôli dlhotrvajúcej chybe systému Windows, ktorá má za následok poškodenie súborov
+	  pri čítaní z CD. Aby ste sa tomu vyhli, skopírujte si, prosím, súbory na pevný disk.
 
-  Verze FM-TOWNS:
-	- Verze Kandži vyžaduje ROM písma FM-TOWNS
+  Verzia FM-TOWNS:
+	- Verzia Kandži vyžaduje ROM písma FM-TOWNS.
 
   Loom:
-	- Vypnutí titulků pomocí souboru nastavení je nevypne spolehlivě, protože skripty Loom je znovu automaticky zapnou
-	- Podpora MIDI ve verzi EGA vyžaduje aktualizaci Roland LucasArts
-	- Verze Kandži na PC-Engine vyžaduje rom systémové karty
+	- Vypnutie titulkov pomocou súboru nastavení ich nevypne spoľahlivo, pretože skripty Loom ich znovu automaticky zapnú.
+	- Podpora MIDI vo verzii EGA vyžaduje aktualizáciu Roland od LucasArts.
+	- Verzia Kandži na PC-Engine vyžaduje rom systémovej karty.
 
   The Secret of Monkey Island:
-	- Podpora MIDI ve verzi EGA vyžaduje aktualizaci Roland LucasArts
+	- Podpora MIDI vo verzii EGA vyžaduje aktualizáciu Roland od LucasArts.
 
   Beneath a Steel Sky:
-	- Verze pro Amiga nejsou podporovány
-	- Demoverze z diskety nejsou podporovány
-	- Není chyba: Ve verzi na CD chybí v jistých dialozích řeč, to je normální.
+	- Verzie pre Amiga nie sú podporované.
+	- Demoverzie z diskety nie sú podporované.
+	- Toto nie je chyba: Vo verzii na CD chýba pri určitých dialógov reč, to je normálne.
 
   Elvira - Mistress of the Dark:
-	- Ve verzi pro Atari ST nefunguje hudba
+	- Vo verzii pre Atari ST nefunguje hudba.
 
   Elvira II - The Jaws of Cerberus:
-	- Ve verzi pro Atari ST nefunguje hudba
-	- Ve verzi pro PC nefungují zvukové efekty
-	- Ve verzi pro Atari ST jsou problémy s paletou
+	- Vo verzii pre Atari ST nefunguje hudba.
+	- Vo verzii pre PC nefungujú zvukové efekty.
+	- Vo verzii pre Atari ST sú problémy s paletou.
 
   Inherit the Earth: Quest for the Orb:
-	- Verze pro Amiga nejsou podporovány
+	- Verzie pre Amiga nie sú podporované.
 
   Lure of the Temptress:
-	- Žádná podpora Roland MT-32
-	- Podpora zvuku není dokončena a nezní jako v původní hře
+	- Žiadna podpora Roland MT-32.
+	- Podpora zvuku nie je dokončená a neznie ako v pôvodnej hre.
 
   Simon the Sorcerer 1:
-	- V anglických a německých verzích na CD nejsou titulky dostupné, protože jim většina titulků chybí.
+	- V anglických a nemeckých verziách na CD nie sú k dispozícii titulky, pretože im väčšina titulkov chýba.
 
   Simon the Sorcerer 2:
-	- Kombinace řeči a titulků často způsobí, že řeč je přerušena brzo, toto je omezení původní hry.
-	- Ve verzích pro Amiga a Macintosh je podporován pouze výchozí jazyk datových souborů (angličtina).
+	- Kombinácia reči a titulkov často spôsobí, že reč je prerušená predčasne, toto je obmedzenie pôvodnej hry.
+	- Vo verziách pre Amiga a Macintosh je podporovaný iba predvolený jazyk dátových súborov (angličtina).
 
   Simon the Sorcerer's Puzzle Pack:
-	- Žádná podpora pro zobrazování, zadávání, ukládání, či načítání nejvyšších skóre.
-	- Žádná podpora pro zobrazování názvů položek, když na ně najedete myší ve Swampy Adventures.
+	- Žiadna podpora pre zobrazovanie, zadávanie, ukladanie alebo načítanie najvyšších skóre.
+	- Žiadna podpora pre zobrazovanie názvov položiek, keď na nich nájdete myšou v Swampy Adventures.
 
   The Feeble Files:
-	- Titulky jsou často nedokončené. V původní hře byly vždy zakázány.
+	- Titulky sú často nedokončené. V pôvodnej hre boli vždy zakázané.
 
   The Legend of Kyrandia:
-    - Ve verzích na disketě pro Mac není žádná hudba ani zvukové efekty.
-    - CD Macintosh používá zahrnutou hudbu a zvukové efekty z DOS.
+    - Vo verziách na diskete pre Mac nie je žiadna hudba ani zvukové efekty.
+    - CD verzia pre Macintosh používa zahrnutú hudbu a zvukové efekty z DOS.
 
   Hry Humongous Entertainment:
-    - Pouze původní rozhraní pro uložení a načtení mohou být použity.
-    - Žádná podpora pro hru více hráčů nebo tisknutí obrázků
+    - Na ukladanie a načítanie je možné použiť iba pôvodné rozhrania.
+    - Žiadna podpora pre hru viac hráčov alebo tlačenie obrázkov.
 
 
 3.5) Poznámky k Beneath a Steel Sky:
