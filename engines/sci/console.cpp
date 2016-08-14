@@ -489,6 +489,7 @@ bool Console::cmdGetVersion(int argc, const char **argv) {
 	debugPrintf("Lofs type: %s\n", getSciVersionDesc(_engine->_features->detectLofsType()));
 	debugPrintf("Move count type: %s\n", (_engine->_features->handleMoveCount()) ? "increment" : "ignore");
 	debugPrintf("SetCursor type: %s\n", getSciVersionDesc(_engine->_features->detectSetCursorType()));
+	debugPrintf("PseudoMouse ability: %s\n", _engine->_features->detectPseudoMouseAbility() == kPseudoMouseAbilityTrue ? "yes" : "no");
 #ifdef ENABLE_SCI32
 	if ((getSciVersion() >= SCI_VERSION_2_1_EARLY) && (getSciVersion() <= SCI_VERSION_2_1_LATE))
 		debugPrintf("SCI2.1 kernel table: %s\n", (_engine->_features->detectSci21KernelType() == SCI_VERSION_2) ? "modified SCI2 (old)" : "SCI2.1 (new)");
@@ -2080,6 +2081,10 @@ bool Console::cmdPrintSegmentTable(int argc, const char **argv) {
 			case SEG_TYPE_STRING:
 				debugPrintf("T  SCI32 strings (%d)", (*(StringTable *)mobj).entries_used);
 				break;
+
+			case SEG_TYPE_BITMAP:
+				debugPrintf("T  SCI32 bitmaps (%d)", (*(BitmapTable *)mobj).entries_used);
+				break;
 #endif
 
 			default:
@@ -2213,6 +2218,9 @@ bool Console::segmentInfo(int nr) {
 		break;
 	case SEG_TYPE_ARRAY:
 		debugPrintf("SCI32 arrays\n");
+		break;
+	case SEG_TYPE_BITMAP:
+		debugPrintf("SCI32 bitmaps\n");
 		break;
 #endif
 
@@ -2813,6 +2821,12 @@ bool Console::cmdViewReference(int argc, const char **argv) {
 					debugPrintf("SCI32 array:\n");
 					const SciArray<reg_t> *array = _engine->_gamestate->_segMan->lookupArray(reg);
 					hexDumpReg(array->getRawData(), array->getSize(), 4, 0, true);
+					break;
+				}
+				case SEG_TYPE_BITMAP: {
+					debugPrintf("SCI32 bitmap:\n");
+					const SciBitmap *bitmap = _engine->_gamestate->_segMan->lookupBitmap(reg);
+					Common::hexdump((const byte *) bitmap->getRawData(), bitmap->getRawSize(), 16, 0);
 					break;
 				}
 #endif
